@@ -1,0 +1,16 @@
+RC GPS tracker mobile app
+	Design UI
+	recieve periodical feedback from phone
+	send feedback over Wifi to server
+	
+RC backedn
+	Design UI with map
+	Add waypoints
+	connect and recieve feedback from app
+	calculating direction to next waypoint
+	send command to arduino serial port
+	
+RC arduino	
+	solder controller with wires
+	set up circuit on breadboard
+	write codes to interface with serial port
